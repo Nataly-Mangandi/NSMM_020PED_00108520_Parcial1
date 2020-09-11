@@ -1,0 +1,21 @@
+PREGUNTAS EXTRAS PARA VER SI ME GANO UN 5%
+------------------------------------------------------
+Nombre:Nataly Mangandí
+Carnet: 00108520
+------------------------------------------------------
+
+1.) ¿Qué es git y porqué es útil en la informática?
+R// Resumiendo, Git es un sistema de control de proyectos,se utiliza junto con GitHub, una plataforma hecha para desarrolladores
+    es muy útil cuando se tienen muchos archivos de código y quisieras compartirlos con otras 
+    personas o guardarlos en línea; Tambien es útil cuando se requiere trabajar proyectos en conjunto ya sea
+    con compañeros tuyos o con personas alrededor del mundo.
+
+2.) Mencione y explique brevemente 3 comandos utilizados en Git:
+R//  1) (git add .)= Este comando se utiliza en la terminal para seleccionar todos los archivos
+                     con los que estemos trabajando en una carpeta/aplicación determinada.
+     
+     2) (git commit -m " ")= Este comando se encarga de crear una confirmación con un mensaje.
+                             Al ingresar a Github el mensaje ingresado aparecerá al subir los archivos.
+   
+     3) (git push)= Este comando es el que se encarga de subir contenidos de un repositorio local
+                    hacia un repositorio remoto. Resumiendo, sube archivos.
